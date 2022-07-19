@@ -1,0 +1,241 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+}
+
+.image-1 {
+    background-image: url(./images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    height: 100vh;
+}
+
+
+.text {
+    text-align: center;
+    padding-top: 250px;
+    color: white;
+}
+
+.text h1 {
+    font-size: 60px;
+}
+
+.text p {
+    padding-top: 20px;
+    font-size: 20px;
+    padding-bottom: 3%;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.text a {
+    border: 1px solid orangered;
+    background-color: orangered;
+    color: white;
+    padding: 15px 40px 15px 40px;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 10px;
+    font-weight: 20px;
+}
+
+.text-2 {
+    text-align: center;
+    padding-top: 100PX;
+}
+
+.text-2 h1 {
+    font-size: 60px;
+}
+
+.box-5 {
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    gap: 50px;
+}
+
+.box-5 p {
+    border: 1px solid rgb(157, 150, 147);
+    padding: 45px 30px;
+    background-color: darkgrey;
+}
+
+h3 {
+    text-align: center;
+    padding-top: 50px;
+}
+
+hr {
+    margin-left: 300px;
+    margin-right: 300px;
+    color: black;
+    margin-bottom: 60px;
+}
+
+.anchor a {
+    text-align: center;
+    border: 1px solid orangered;
+    background-color: orangered;
+    color: white;
+    padding: 15px 40px 15px 40px;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 10px;
+    font-weight: 20px;
+    margin-left: 685px;
+
+
+}
+
+.text-3 {
+    text-align: center;
+    padding-top: 158px;
+}
+
+.text-3 h1 {
+    font-size: 60px;
+}
+
+.icon {
+    display: flex;
+    gap: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.card-1 {
+    background-color: azure;
+    padding: 80px 30px;
+    box-shadow: 0 0 9px rgba(0, 0, 0.6);
+}
+
+.card-2 {
+    background-color: aquamarine;
+    padding: 80px 30px;
+    box-shadow: 0 0 9px rgba(0, 0, 0.6);
+}
+
+.card-3 {
+    background-color: bisque;
+    padding: 80px 30px;
+    box-shadow: 0 0 9px rgba(0, 0, 0.6);
+}
+
+.main {
+    display: flex;
+}
+
+.text-4 {
+    margin-left: 100px;
+    margin-right: 80px;
+    margin-top: 80px;
+}
+
+.text-4 p {
+    margin-bottom: 50px;
+}
+
+.text-4 a {
+    border: 1px solid orangered;
+    text-decoration: none;
+    padding: 15px 40px 15px 40px;
+    background-color: orangered;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    font-weight: 20px;
+}
+
+.picture {
+    padding: 90px 30px;
+    margin-right: 50px;
+}
+
+.main-2 {
+    display: flex;
+}
+
+.text-5 {
+    margin-right: 80px;
+    margin-left: 100px;
+}
+
+.text-5 p {
+    margin-bottom: 50px;
+}
+
+.text-5 a {
+    border: 1px solid orangered;
+    text-decoration: none;
+    padding: 15px 40px 15px 40px;
+    background-color: orangered;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    font-weight: 20px;
+}
+
+.picture-2 {
+    padding: 15px 0px 15px 10px;
+}
+
+.text-6 {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.text-6 p {
+    padding-top: 10px;
+    padding-bottom: 0px;
+}
+
+.button {
+
+    display: flex;
+    border: 100px solid bisque;
+    background-color: bisque;
+    justify-content: center;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 80px;
+    margin-bottom: 150px;
+}
+
+.input-container-1 {
+    border: 1px solid coral;
+    background-color: coral;
+}
+
+.input-container-2 {
+    margin-left: -10px;
+    border: 1px solid coral;
+    background-color: coral;
+}
+
+footer {
+    background: black;
+    height: 200px;
+    width: 100vw;
+}
+
+.footer-content p {
+    text-align: center;
+    color: peachpuff;
+    padding-top: 70px;
+    font-size: 30px;
+}
+
+.footer-content h5 {
+    text-align: center;
+    color: antiquewhite;
+    font-size: 15px;
+    font-weight: 10px;
+}
